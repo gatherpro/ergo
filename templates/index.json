@@ -1,0 +1,11 @@
+{
+  "sections": {
+    "image_banner": {
+      "type": "image-banner"
+    },
+    "featured_collection": {
+      "type": "featured-collection"
+    }
+  },
+  "order": ["image_banner", "featured_collection"]
+}
